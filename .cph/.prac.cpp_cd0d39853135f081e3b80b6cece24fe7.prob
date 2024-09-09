@@ -1,0 +1,1 @@
+{"name":"Local: prac","url":"c:\\Users\\Admin\\Desktop\\neetcode\\prac.cpp","tests":[{"id":1725859495558,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES\n","output":"YES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\neetcode\\prac.cpp","group":"local","local":true}
